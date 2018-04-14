@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "320488147070",
+    "firebase_url": "https://mess-management-system.firebaseio.com",
+    "project_id": "mess-management-system",
+    "storage_bucket": "mess-management-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320488147070:android:bf5a44c77ef44101",
+        "android_client_info": {
+          "package_name": "com.spark.messmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320488147070-qmv01t9t655go97o63bbf1b9ae8ggct2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spark.messmanagementsystem",
+            "certificate_hash": "834e821071e0216d0532e3edb2dd76f737a24015"
+          }
+        },
+        {
+          "client_id": "320488147070-rn84f8m9l8fv7q7njn55nr6imva0c7ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spark.messmanagementsystem",
+            "certificate_hash": "cd914aeda0761727e1a3f3e9cf66a78cbbddc06e"
+          }
+        },
+        {
+          "client_id": "320488147070-n3cm5catfagn75060mg8eipqu6541t9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spark.messmanagementsystem",
+            "certificate_hash": "beb30a141499aa20b636d7065e5233d3365a6cca"
+          }
+        },
+        {
+          "client_id": "320488147070-91hmhuf9sddpod7isi0g2psm8hrrnpab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8Ra58dZ7nOz_YSi0p8GzOCIhVT_MwWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320488147070-91hmhuf9sddpod7isi0g2psm8hrrnpab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
